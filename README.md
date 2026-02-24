@@ -1,16 +1,90 @@
-# React + Vite
+# 🛒 Modern E-Commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A fully functional, responsive E-Commerce website built with React, Vite, Context API, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🌐 **Live Website:**  
+👉 https://your-live-link.com  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📂 **GitHub Repository:**  
+👉 https://github.com/your-username/your-repo-name  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+This project simulates a real-world e-commerce shopping experience including:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Product browsing
+- Cart management
+- Quantity updates
+- Discount calculation
+- Checkout system
+- Multiple payment options
+
+It demonstrates strong understanding of:
+
+- State management
+- Component architecture
+- Routing
+- Context API
+- Dynamic UI updates
+- Clean UI design
+
+---
+
+## ✨ Key Features
+
+### 🛍️ Product System
+- Dynamic product listing
+- Add to cart functionality
+- Real-time quantity update
+- Remove items from cart
+
+### 🛒 Cart Management
+- Global state using Context API
+- Live total price calculation
+- Discount handling
+- Persistent UI updates
+
+### 💳 Checkout & Payment
+- Order summary
+- Credit Card option
+- Debit Card option
+- Cash on Delivery option
+- Auto-clear cart after successful order
+
+### 🎨 UI & Experience
+- Fully responsive design
+- Modern layout using Tailwind CSS
+- Clean and structured component architecture
+- Smooth user flow from browsing to checkout
+
+---
+
+## 🖼️ Application Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🛒 Cart Page
+![Cart Page](./screenshots/cart.png)
+
+### 💳 Checkout Page
+![Checkout Page](./screenshots/checkout.png)
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| React.js | Frontend UI |
+| Vite | Fast development build tool |
+| React Router DOM | Routing |
+| Context API | Global state management |
+| Tailwind CSS | Styling |
+| JavaScript (ES6+) | Logic & functionality |
+
+---
+
+## 🏗️ Architecture Overview
