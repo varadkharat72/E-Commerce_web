@@ -3,10 +3,8 @@
 > A fully functional, responsive E-Commerce website built with React, Vite, Context API, and Tailwind CSS.
 
 🌐 **Live Website:**  
-👉 https://your-live-link.com  
-
-📂 **GitHub Repository:**  
-👉 https://github.com/your-username/your-repo-name  
+👉   
+ 
 
 ---
 
