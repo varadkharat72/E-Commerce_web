@@ -100,4 +100,3 @@ It demonstrates strong understanding of:
 
 ---
 
-## 🏗️ Architecture Overview
