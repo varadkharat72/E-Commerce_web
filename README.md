@@ -64,13 +64,28 @@ It demonstrates strong understanding of:
 ## 🖼️ Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](public/screenshots/home.png)
+
+### 🏠 Product Page
+![Home Page](public/screenshots/products.png)
+
+### 🏠 Product Details Page
+![Home Page](public/screenshots/product-details.png)
 
 ### 🛒 Cart Page
-![Cart Page](./screenshots/cart.png)
+![Cart Page](public/screenshots/cart.png)
+
+### 🏠 Wishlist Page
+![Home Page](public/screenshots/wishlist.png)
 
 ### 💳 Checkout Page
 ![Checkout Page](public/screenshots/checkout.png)
+
+### 🏠 Order History Page
+![Home Page](public/screenshots/order-history.png)
+
+### 🏠 Login Page
+![Home Page](public/screenshots/login.png)
 
 ---
 
