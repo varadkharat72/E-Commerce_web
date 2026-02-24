@@ -70,7 +70,7 @@ It demonstrates strong understanding of:
 ![Cart Page](./screenshots/cart.png)
 
 ### 💳 Checkout Page
-![Checkout Page](./screenshots/checkout.png)
+![Checkout Page](public/screenshots/checkout.png)
 
 ---
 
